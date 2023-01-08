@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534780275104",
+    "project_id": "exemapp-54417",
+    "storage_bucket": "exemapp-54417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534780275104:android:5f0f81ead41d4a3a86dcc5",
+        "android_client_info": {
+          "package_name": "com.abdellatif.exemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534780275104-pkqe2onmfpn2or2ksv90qog1hv35oli0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVmEcfXgHZ7IrXLm28IReirpioJtNSq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534780275104-pkqe2onmfpn2or2ksv90qog1hv35oli0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
